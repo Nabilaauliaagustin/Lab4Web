@@ -9,7 +9,7 @@
 # 3. Mengatur Clearfix HTML
 ![l4 3](https://github.com/user-attachments/assets/e8463a79-6b2e-4f8a-a4a7-c7065bdaa005)
 
-Mengubah float pada div 4, dengan mengubah clear: right; box elemen jadi berada di kanan, dan mengubah float pada div1, div2, div3 dengan none. Hasil sebagai berikut:
+# Mengubah float pada div 4, dengan mengubah clear: right; box elemen jadi berada di kanan, dan mengubah float pada div1, div2, div3 dengan none. Hasil sebagai berikut:
 ![L4 3a](https://github.com/user-attachments/assets/3f0260dc-259a-4f6a-a92d-381b740b9e0a)
 
 # 4. Membuat Layout Sederhana
@@ -40,7 +40,7 @@ Mengubah float pada div 4, dengan mengubah clear: right; box elemen jadi berada 
 ![l4 12](https://github.com/user-attachments/assets/3780a688-91d3-42eb-a4ed-8fca4194e2c6)
 
 
-#- Tugas
+# Tugas
 
 1. Membahkan layout untuk menu About (buat single yang berisi deskripsi, portofolio, dll)
 ![l4 t1](https://github.com/user-attachments/assets/7b667e2a-9473-489b-9a3e-566f2b33fca5)
